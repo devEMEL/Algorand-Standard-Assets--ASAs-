@@ -1,5 +1,5 @@
 
-export const createAsset = () => {
+export const createAsset = (algodClient, account) => {
 
-    
+
 }
